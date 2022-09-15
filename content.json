@@ -1,6 +1,7 @@
 ﻿jsonpCallback([
     {
         "title": "九评共产党",
+		"css": "background:linear-gradient(#566AC9,#0A38C2); color:#FFF;",
         "list": [
             {"title": "【公告】大纪元将发表系列社论《九评共产党》", "url": "book_html/9ping.html#p0"},
             {"title": "九评之一：评共产党是什么", "url": "book_html/9ping.html#p1"},
